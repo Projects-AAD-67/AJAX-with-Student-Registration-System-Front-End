@@ -45,7 +45,6 @@
     //     http.setRequestHeader("Content-Type","application/json")
     //     http.send(studentJSON)
     // });
-
           // AJAX with JQuery
           $.ajax({
             url: "http://localhost:8080/Stumgmt2024/student",
